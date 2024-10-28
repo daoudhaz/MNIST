@@ -4,4 +4,5 @@ each image. We train an encoder-decoder neural network that takes amplitude and 
 to reconstruct the original image at the output, as shown in the diagram below. Then we explore the
 latent space for interesting insights.
 
-![MNIST_Readme](https://github.com/user-attachments/assets/5750edb2-590f-4db7-a012-1dde803f3249)
+
+![MNIST_Readme_new](https://github.com/user-attachments/assets/82760ccf-ba4e-4904-978f-ce0a4e72796d)
